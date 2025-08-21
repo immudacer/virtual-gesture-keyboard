@@ -38,7 +38,7 @@ pip install opencv-python cvzone pyautogui numpy
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/yourusername/virtual-gesture-keyboard.git
+   git clone https://github.com/immudacer/virtual-gesture-keyboard.git
    cd virtual-gesture-keyboard
    ```
 
